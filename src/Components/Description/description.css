@@ -1,0 +1,17 @@
+.myself {
+    border-radius: 100px;
+    border: 5px solid black ;
+height:200px ;
+width: 200px;}
+.me {color: pink ;}
+.main {display: flex ;
+       justify-content: space-between ;
+       border: 5px solid black ;
+       margin: 10px;
+       background-color : grey;
+       padding-left: 20px;
+       padding-right: 20px;
+       padding-top: 20px;
+       padding-bottom: 20px;
+       font-size: x-large;  }
+.para {margin-top : 65px;}       

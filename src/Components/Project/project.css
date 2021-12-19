@@ -1,0 +1,57 @@
+.title {color: pink ;
+        font-family: 'Times New Roman', Times, serif;
+         font-size: 60px;
+        text-align: center;}
+.project1 { border-color: black ;
+    background-color: white;
+    height: 500px;
+    width: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 30px;
+    border: 5px solid black}
+.img1 {height:250px; 
+    width: 250px;}
+.project2 { border-color: black ;
+            background-color: white;
+            height: 500px;
+            width: 300px;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            margin: 30px;
+            border: 5px solid black}
+.img2 {height:250px; 
+     width: 250px;}
+.project3 { border-color: black ;
+        background-color: white;
+        height: 500px;
+        width: 300px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin: 30px;
+        border: 5px solid black}
+.img3 {height:250px; 
+    width: 250px;}
+.project4 { border-color: black ;
+        background-color: white;
+        height: 500px;
+        width: 300px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin: 30px;
+        border: 5px solid black}
+.img4 {height:250px; 
+    width: 250px;}
+.projects {display: flex;
+    justify-content: space-between;
+    }
+.title1 {text-align: center;
+         color :palevioletred}

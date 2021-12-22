@@ -26,7 +26,9 @@ function App() {
     message='Feedback'/>
     <br/>
     <br/>
-    <Footer copyright ='AGREBI FARAH © , All Rights Reserved'/>
+    <Footer copyright ='AGREBI FARAH © , All Rights Reserved'>
+       <h6>GOMYCODE Lac1,tunis </h6>    
+    </Footer>
   </div>
   );
 }

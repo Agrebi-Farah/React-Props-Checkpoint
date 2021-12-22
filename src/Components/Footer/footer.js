@@ -8,7 +8,9 @@ const Footer =(props)=>{
 
         <Card className="footer">
     <Card.Body>{props.copyright}</Card.Body>
+    <h6>{props.children}</h6>
     <a href="#topOfThePage">Go back to the top</a>
+    
      </Card>
 
     )

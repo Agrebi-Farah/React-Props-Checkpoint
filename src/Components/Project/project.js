@@ -35,7 +35,8 @@ const project =(props)=> {
                 <p className="para4">lorem ipsum dolor sit amet, consectetur adipiscing</p>
                 <a href ={props.link4} >Github.link</a>
             </div>
-
+        
+        
 
 
 
